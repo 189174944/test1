@@ -9,6 +9,7 @@
   "require": {
     "monolog/monolog": "^1.23"
   },
+  "minimum-stability": "dev",
   "autoload": {
     "classmap": [
     ],
